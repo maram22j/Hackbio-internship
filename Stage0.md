@@ -35,7 +35,7 @@ Actually, this method can be used to analyse genetic mutations to determine whic
 In addition, it can be used on magnetic resonance (MR) images to train the model to differentiate between malignant or benign ones .<!--[if supportFields]><span style='mso-element:field-begin'></span><span
  style='mso-spacerun:yes'> </span>CITATION Mur20 \l 1036 <span
  style='mso-element:field-separator'></span><![endif]-->(Murali, 2020)<!--[if supportFields]><span style='mso-element:
- field-end'></span><![endif]-->..
+ field-end'></span><![endif]-->.
 This technique is also used in cancer prediction and prognosis to determine a person's cancer risk. Algorithms such as KNN, decision tree algorithm, support vector machine learning are commonly used. For instance, an Egyptian study found that support vector machine is the most effective algorithm in predicting patients with lung cancer.<!--[if supportFields]><span
  style='mso-element:field-begin'></span> CITATION Elg23 \l 1036 <span
  style='mso-element:field-separator'></span><![endif]--> (Elgohary, 2023)<!--[if supportFields]><span
