@@ -2,11 +2,13 @@
 
 Author (@slack): Maram Nhaili (@maramnhaili)
 
-     With the emergence of AI and Machine learning and their consistent development over the years, it has become crucial to include them in the medical field.
+With the emergence of AI and Machine learning and their consistent development over the years, it has become crucial to include them in the medical field.
 So in this essay, we will attempt to answer the following questions:
-+What is Machine Learning? And what does the supervised method mean?
-+How has this method been applied in Cancer diagnosis?
-+What are the outcomes of using this method in the future? 
+<ul>
+<li>What is Machine Learning? And what does the supervised method mean?</li>
+<li>How has this method been applied in Cancer diagnosis?</li>
+<li>What are the outcomes of using this method in the future?</li> </ul>
+
 ### Concept explanation: <a id="concept explanation"></a>
    Machine learning is a type of artificial intelligence that is based on statistical tools to draw conclusions from data, enabling the prediction of a given phenomenon. It employs algorithms that are self-taught through exposure to data <!--[if supportFields]><span
  style='mso-element:field-begin'></span><span
