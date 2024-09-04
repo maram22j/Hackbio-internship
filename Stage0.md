@@ -41,7 +41,7 @@ This technique is also used in cancer prediction and prognosis to determine a pe
                                                                                                                                      
 
 
-# Bibliography :
+# Refrecences :
 
 <!--[if supportFields]><span lang=EN-GB><span
   style='mso-element:field-begin'></span>BIBLIOGRAPHY<span style='mso-element:
