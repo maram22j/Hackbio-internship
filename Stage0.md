@@ -2,7 +2,7 @@
 
 Author (@slack): Maram Nhaili (@maramnhaili)
 
-With the emergence of AI and Machine learning and their consistent development over the years, it has become crucial to include them in the medical field.
+ With the emergence of AI and Machine learning and their consistent development over the years, it has become crucial to include them in the medical field.
 So in this essay, we will attempt to answer the following questions:
 <ul>
 <li>What is Machine Learning? And what does the supervised method mean?</li>
@@ -10,7 +10,7 @@ So in this essay, we will attempt to answer the following questions:
 <li>What are the outcomes of using this method in the future?</li> </ul>
 
 ### Concept explanation: <a id="concept explanation"></a>
-   Machine learning is a type of artificial intelligence that is based on statistical tools to draw conclusions from data, enabling the prediction of a given phenomenon. It employs algorithms that are self-taught through exposure to data <!--[if supportFields]><span
+ Machine learning is a type of artificial intelligence that is based on statistical tools to draw conclusions from data, enabling the prediction of a given phenomenon. It employs algorithms that are self-taught through exposure to data <!--[if supportFields]><span
  style='mso-element:field-begin'></span><span
  style='mso-spacerun:yes'> </span>CITATION Mur20 \l 1036 <span
  style='mso-element:field-separator'></span><![endif]-->\[1]<!--[if supportFields]><span style='mso-element:field-end'></span><![endif]-->.
@@ -29,9 +29,7 @@ There are three steps: <!--[if supportFields]><span
  3. **_Prediction phase:_** The machine is able to predict new data.&#x20;
 
 Actually, this method can be used to analyse genetic mutations to determine which targeted therapies are likely to be most effective or to predict how a patient might respond to a specific drug based on their genetic profile.
-
 In addition, it can be used on magnetic resonance (MR) images to train the model to differentiate between malignant or benign ones \[1].
-
 This technique is also used in cancer prediction and prognosis to determine a person's cancer risk. Algorithms such as KNN, decision tree algorithm, support vector machine learning are commonly used. For instance, an Egyptian study found that support vector machine is the most effective algorithm in predicting patients with lung cancer.<!--[if supportFields]><span
  style='mso-element:field-begin'></span> CITATION Elg23 \l 1036 <span
  style='mso-element:field-separator'></span><![endif]--> \[3]<!--[if supportFields]><span
