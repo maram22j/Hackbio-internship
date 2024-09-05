@@ -1,7 +1,7 @@
 ## Overiew of Supervised learning and its importance in Cancer.
 ### Introduction:<a id="introduction"></a>
 
-Author (@slack): Maram Nhaili (@Maram Nhaili)
+Author (@slack): Maram Nhaili (@Maram)
 
  With the emergence of AI and Machine learning and their consistent development over the years, it has become crucial to include them in the medical field.
 So in this essay, we will attempt to answer the following questions:
