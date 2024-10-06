@@ -1,3 +1,6 @@
+
+<div align=center><img src="Bioinformatics.png" alt="Header Image" width="1000" height=400/></div>
+
 # Hackbio internship: 
 Welcome to my GitHub repository for the HackBio Internship! This repository highlights my journey through an intensive 8-week practical internship in oncology, focusing on machine learning and data science applications.
 ## Internship Overview:
