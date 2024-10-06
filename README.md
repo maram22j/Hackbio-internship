@@ -10,7 +10,7 @@ The internship was divided into five progressive stages, covering a comprehensiv
 <li>Stage 1: Collaborated with a team to conduct a literature review, "Machine Learning for Lung Cancer Diagnosis, Treatment, and Prognosis," and summarized our findings in a video. </li>
 <li>Stage 2: Preprocessed Glioblastoma dataset from TCGA, performed differential expression analysis and pathway enrichment using ShinyGo, alongside Biomarker and ML interns.</li>
 <li>Stage 3: Implemented a pipeline for potential Sarcoma biomarkers based on age classification using differential expression, functional enrichment, and ML models.</li>
-<li>Stage 4: Reproduced research by clustering gene expression data for LGG glioma based on IDH status, using KNN. </li>
+<li>Stage 4: Reproduced research by clustering gene expression data for LGG glioma based on IDH status, using KNN machine learning model. </li>
 <li>Stage 5-7: Final Capstone Project</li></ul>
 
 ## Objectives
@@ -27,7 +27,7 @@ Throughout this internship, I achieved:
 <li><B>Data Visualization:</B> Created insightful plots for biological datasets.</li>
 <li><B>Machine Learning:</B> Applied KNN and Random Forest models for cancer diagnosis and classification.</B></li>
 <li><B>Bioinformatics:</B> Conducted differential gene expression and pathway enrichment analyses.</B></li>
-<li><B>Teamwork:</B> Collaborated with cross-functional teams of data scientists and biomarker experts.</B></li></ul>
+<li><B>Teamwork:</B> Collaborated with cross-functional teams of data scientists and biomarker interns</B></li></ul>
 
 ## How to Use This Repository
 You can explore various stages of the internship within this repository, including:
