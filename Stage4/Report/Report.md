@@ -1,6 +1,6 @@
 # **Clustering of LGG using Expression Profiles and Identifying Expression-based Biomarkers in IDH wild-type LGG TCGA samples**
 
-Authors (@slack): Vidhyavathy Nagarajan (@Vidhya2205), Ahmed Hasan (@Hasan), Nusrat Afrin (@Nusrat), Shreya Karandikar (@Shreya), Dharshana Rajkumar (@Dharshana), Maram Nhaili (@Maram), Mary Dhevanayagam (@Shanu) 
+Authors (@slack): Vidhyavathy Nagarajan (@Vidhya2205), Ahmed Hasan (@Hasan),Maram Nhaili (@Maram), Nusrat Afrin (@Nusrat), Shreya Karandikar (@Shreya), Dharshana Rajkumar (@Dharshana), Mary Dhevanayagam (@Shanu) 
 
  Link to GitHub Repository and GitHub Code - [Link to Repo](https://github.com/marydhevanayagam/TCGA_LGG-IDH-expression-analysis-HackBio-stage-4), [Link to code](https://github.com/marydhevanayagam/TCGA_LGG-IDH-expression-analysis-HackBio-stage-4/blob/main/Code/RCode.Rmd) 
 
