@@ -33,5 +33,5 @@ Throughout this internship, I achieved:
 You can explore various stages of the internship within this repository, including:
 
 <ul><li>R scripts for preprocessing,Ml models used and analysis.</li>
-<li>Research reports,plots generated, R packages and tools used and video presentation.</li></ul>
+<li>Research reports,plots generated, R packages, tools used and video presentation.</li></ul>
 
