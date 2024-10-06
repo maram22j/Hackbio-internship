@@ -1,6 +1,6 @@
 # **Clustering of LGG using Expression Profiles and Identifying Expression-based Biomarkers in IDH wild-type LGG TCGA samples**
 
-Authors (@slack): Vidhyavathy Nagarajan (@Vidhya2205), Ahmed Hasan (@Hasan),Maram Nhaili (@Maram), Nusrat Afrin (@Nusrat), Shreya Karandikar (@Shreya), Dharshana Rajkumar (@Dharshana), Mary Dhevanayagam (@Shanu) 
+Authors (@slack): Vidhyavathy Nagarajan (@Vidhya2205), Ahmed Hasan (@Hasan), Maram Nhaili (@Maram),Nusrat Afrin (@Nusrat), Shreya Karandikar (@Shreya), Dharshana Rajkumar (@Dharshana), Mary Dhevanayagam (@Shanu) 
 
  Link to GitHub Repository and GitHub Code - [Link to Repo](https://github.com/marydhevanayagam/TCGA_LGG-IDH-expression-analysis-HackBio-stage-4), [Link to code](https://github.com/marydhevanayagam/TCGA_LGG-IDH-expression-analysis-HackBio-stage-4/blob/main/Code/RCode.Rmd) 
 
@@ -25,7 +25,7 @@ Gene expression data for 513 LGG samples (primary tumors with IDH status) were o
 
 <p align = center>
   <kbd>
-<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdXD1aGgz_5bou6xMt1GPnacDs1x14Wk8v1LaDVdFV4gmQ0uWehrYpvs5SxkROBz0NTTMqWVDjBS2Dh7sE3IIDUCrOZmKlpCS7yRLuhR1z9Hco1fLEPl3WZ-RqGD2hB00cc8TApU7ceO59_hVPOiMSP1ir1?key=xvw3JB3jr1ZpthYtl54CPw](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf3xYQLbJauM1vxJXwcvrcl97ZjF076zwuOUH9pZAhxYzHxm_JTof-NpEIZ6BrhwB0tUvSMFC5MYfCFtk_AEtmHEss6oM4fIccB55FF-SrxkiSK0rmJoZ5D5npgLeI4lM1GIjtJBRZVN9M1aopyc1ggPQg?key=89BCI04Rsiwk571Sn0Mq1Q" width="400" height = "400">
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxlPqWDE5xnPANvvuh8oPKk1HI8MnJw_91Xt7riKQ50b7jQmaaM5vmBUVafjlvoBRFcNtYHuIlDa6a12EOaL5NqSyqcu9Tu_T1bY1-je-pFwPDsuiEdRcrL48RW1QDIgt6IdVI7m2PrGihtqjbfGyTraiZ?key=89BCI04Rsiwk571Sn0Mq1Q" width="400" height = "400">
   </kbd>
   </p>
   <p align = center><sup>Fig 3. Pipeline for data acquisition and pre-processing</sup></p>
@@ -58,7 +58,7 @@ DGEA identified 5916 significant differentially expressed genes (DEG) from the \
 
 <p align = center float="left">
   <kbd>
-<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdlcpWnd5Ow3P8outBkYTHwS_-PvqGbFB8vexQF8eYCYjCOCYxKyWZib5px-llIA9jlAbsst6zib6Q22FdqoMG12l05NKbUxK2z2MkbrzpuFzwRSQh1MoPmpIwbgNnXjd7yVJUfR6WWCq3P9Bj5hhMQJi5e?key=89BCI04Rsiwk571Sn0Mq1Q" width="360" height = "400">
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeuSozo7bHH6dhTeg_vE-Qa6echGM0zZyJ19fhaY1sC-Potewuoguq1xYzy9wENJJ-sA7CQarp4ecd6yQjgOxb8d0VHMACCdGjpL4MCKG5ZNnC-YOx-Pixflb5nRwSEuFIqZYZ5rsoHqj9H66VKRVD6-QlR?key=89BCI04Rsiwk571Sn0Mq1Q" width="360" height = "400">
   </kbd>
    <kbd>
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXelXYZl1yFBVBqBlkxuNIJ4uWApDrmNXMmUqIoXFUQC-v0RhNkIUO5pvlOsy9XJDkH62HcRMa-0lgCgwqtBBSbK74bMqfXaRHJuqt6-fX0aZJmGko7NRSZwUjrYMta88JFMP-Ic2hOZrIqLqp3-wFFRGjhs?key=89BCI04Rsiwk571Sn0Mq1Q" width="360" height = "400">
@@ -89,7 +89,7 @@ The top 5 GO enriched and KEGG pathways enriched with the 5916 DEA’s (4235 Up 
 
 ### 4.2. **Results of the PCA and K-means, including visualizations and evaluation metrics as presented in the paper** 
 
-K-means clustering via PCA showed two overlapping clusters. Samples in cluster 2 had less variability on the other hand points (samples) in cluster 1 were more spread out and had more variable expression levels. Upon extracting the samples IDs from both clusters we came to know that out of 180 samples, cluster 1 had the most IDH mutant samples 151 and 29 wild types on the other hand cluster 2 had the highest density of samples 333 out of which 268 were IDH mutant and 65 wild-type. This indicates the domination of the IDH wild state in both clusters. The heatmap depicts low expression levels of IDH mutant state in both clusters indicating its domination in causing LGG (Fig. 4.2.3, 4.2.4).
+K-means clustering via PCA showed two overlapping clusters. Samples in cluster 2 had less variability on the other hand points (samples) in cluster 1 were more spread out and had more variable expression levels. Upon extracting the samples IDs from both clusters we came to know that out of 180 samples, cluster 1 had the most IDH mutant samples 151 and 29 wild types on the other hand cluster 2 had the highest density of samples 333 out of which 268 were IDH mutant and 65 wild-type. This indicates the domination of the IDH mutant state in both clusters. The heatmap depicts low expression levels of IDH mutant state in both clusters indicating its domination in causing LGG (Fig. 4.2.3, 4.2.4).
 
 <p align = center>
   <kbd>
@@ -123,14 +123,14 @@ K-means clustering via PCA showed two overlapping clusters. Samples in cluster 2
 
    ### 5.1. **DEA and FEA of LGG expression data**
 
-In line with the findings of the study conducted by Ceccarelli M _et al_., 2016, there were more significant upregulated genes in the IDH W/T samples (Fig 4.1.2), indicating plausible epigenetic changes between the two groups. Previous studies indicate hypermethylation in the IDH-mutant samples indicating the role of epigenetic mechanisms<sup>\[10,11,7]</sup>. Further, the master transcription factors and their target genes previously<sup>\[10]</sup> found to be upregulated in IDH\_W/T were upregulated in the current study as well (Fig 5.1). This indicates the possible role of these transcription factors in driving tumor progression in IDH\_WT. Moreover, all of the transcription factors reported in the  Ceccarelli M _et al_., 2016 had higher expression in IDH\_WT state (log2FC>0), however only 6 of them were significant (log2FC>1)\[[SupplementaryData](https://github.com/marydhevanayagam/hackbio-stage-four-TCGA_LGG-analysis/blob/main/Data/DGEA_comparision%20with%20paper.xlsx)]. Further, FEA revealed that the upregulated genes were enriched(n=87) in the sequence-specific DNA binding molecular function (Fig 4.1.3),  indicating the enrichment of transcription factors in the upregulated gene pool.
+In line with the findings of the study conducted by Ceccarelli M _et al_., 2016, there were more significant upregulated genes in the IDH W/T samples (Fig 4.1.2), indicating plausible epigenetic changes between the two groups. Previous studies indicate hypermethylation in the IDH-mutant samples indicating the role of epigenetic mechanisms<sup>\[10,11,7]</sup>. Further, the master transcription factors and their target genes previously<sup>\[10]</sup> found to be upregulated in IDH\_W/T were upregulated in the current study as well (Fig 5.1). This indicates the possible role of these transcription factors in driving tumor progression in IDH\_WT. Moreover, all of the transcription factors reported as upregulated in IDH\_WT in Ceccarelli M _et al_., 2016 also had higher expression in the IDH\_WT state (log2FC>0) in the current study, however only 6 of them were significant (log2FC>1)\[[SupplementaryData](https://github.com/marydhevanayagam/hackbio-stage-four-TCGA_LGG-analysis/blob/main/Data/DGEA_comparision%20with%20paper.xlsx), Fig 4.1.1]. Further, FEA revealed that the upregulated genes were enriched(n=87) in the sequence-specific DNA binding molecular function (Fig 4.1.3),  indicating the enrichment of transcription factors in the upregulated gene pool.
 
 <p align = center>
   <kbd>
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXejWw-bNkSxYVaBqOVEXfAEzJ9wi9rt6MRUSZ1AHZ26X4Wazy8Uw49j2pGYOsmnTNoQLpiRnUP7gYWwwVefADRBPAozNjAsQr08OnNlQcZXBpEINNQZLqSHbQFgKq7xCNkbPToYkHjDXe6intMbVU8GCnRU?key=89BCI04Rsiwk571Sn0Mq1Q"" width="600" height = "400">
   </kbd>
   </p>
-  <p align = center><sup> Fig 5.1. Significantly upregulated TF’s identified in target study<sup>\[10]</sup> and current analysis </sup></p>
+  <p align = center><sup> Fig 5.1. Significantly upregulated TF’s identified in target study<sup>[10]</sup> and their expression in the current analysis </sup></p>
 
 ### 5.2 **Unsupervised Clustering** 
 
@@ -175,3 +175,6 @@ The identified features of expression-based unsupervised clustering can help cat
 
 
 <!--EndFragment-->
+
+  
+ 
